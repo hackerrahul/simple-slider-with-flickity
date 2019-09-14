@@ -1,4 +1,4 @@
-# simple-slider-with-flickity
+# Simple Carousel/Slider with Flickity
 This is the simple code for using simple plugin provided by flickity. By htis we can easily make a carousel/Slider in our websites.
 
 # Just include these CDN files in your file and you are good to go!
